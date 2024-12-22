@@ -1,0 +1,86 @@
+[{
+    "_id": {
+      "$oid": "6767b554be0d3637d8dcf97d"
+    },
+    "recipe_name": "Noodles",
+    "ingredients": [
+      "Noodles",
+      "water",
+      "salt",
+      "masala"
+    ],
+    "instructions": "Boil water. Add salt and masala. Break noodles and add to it. Cook it for 2 mins ",
+    "cuisine": "Chinese",
+    "created_date": {
+      "$date": "2024-12-22T06:44:36.651Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6767b575be0d3637d8dcf97f"
+    },
+    "recipe_name": "Fish Gravy",
+    "ingredients": [
+      "Fish",
+      "onion",
+      "tomato",
+      "fish masala"
+    ],
+    "instructions": "Fry oniona and tomato. Add fish masala. Add water amd cook for 10 mins. Add fish and cook until fish is cooked ",
+    "cuisine": "Indian",
+    "created_date": {
+      "$date": "2024-12-22T06:45:09.260Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6767b585be0d3637d8dcf981"
+    },
+    "recipe_name": "Salad",
+    "ingredients": [
+      "Chickpeas",
+      "onion",
+      "tomato",
+      "salad dressing"
+    ],
+    "instructions": "Mix the ingredients together and serve with few spoons of olive oil ",
+    "cuisine": "Continental",
+    "created_date": {
+      "$date": "2024-12-22T06:45:25.981Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6767b596be0d3637d8dcf983"
+    },
+    "recipe_name": "Boiled Rice",
+    "ingredients": [
+      "Parboiled rice",
+      "water",
+      "salt"
+    ],
+    "instructions": "Boil water and add rice to it. Add a pinch of salt. Cook until rice is ready",
+    "cuisine": "Asian",
+    "created_date": {
+      "$date": "2024-12-22T06:45:42.802Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6767b5a8be0d3637d8dcf985"
+    },
+    "recipe_name": "Chicken Briyani",
+    "ingredients": [
+      "Chicken"
+    ],
+    "instructions": "cooking time 30mins",
+    "cuisine": "Indian",
+    "created_date": {
+      "$date": "2024-12-22T06:46:00.060Z"
+    },
+    "__v": 0
+  }]

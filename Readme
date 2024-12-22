@@ -25,5 +25,14 @@ Fully functional integration with MongoDB using Mongoose.
 Detailed documentation for each API endpoint in Postman.
 Includes sample requests and responses for each operation and proper error handling and validation.
 
+Render app link: 
+https://recipes-task-2-ikut.onrender.com 
 
+Deployed in render but i am facing network issue while accessing mongodb hence i have taken screenshots from localhost which is showed on render. 
 
+info
+Server is running at the URL http://localhost:3000
+info
+==> Your service is live 🎉
+error
+Error in conecting the MongoDB MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
