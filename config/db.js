@@ -1,6 +1,7 @@
 // import the module mongoose
 const mongoose = require("mongoose");
-const MONGO_URI = "mongodb://127.0.0.1:27017/Recipe";
+// const MONGO_URI = "mongodb://127.0.0.1:27017/Recipe";
+const MONGO_URI = "mongodb://localhost:27017/Recipe";
 
 // connect to mongodb 
 const connectDB = async () => {
