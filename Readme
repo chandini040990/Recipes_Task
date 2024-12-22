@@ -1,0 +1,29 @@
+         
+Recipes App
+
+Developd a complete CRUD (Create, Read, Update, Delete) application for managing recipes using Node.js, Express.js, and Mongoose. The application follows the MVC pattern and includes comprehensive API documentation using Postman.
+
+Functionalities:
+The following functionality are achieved,
+
+createRecipe: Create a new recipe.
+getAllRecipes: Retrieve all recipes.
+getRecipeById: Retrieve a single recipe by ID.
+updateRecipe: Update a recipe by ID.
+deleteRecipe: Delete a recipe by ID.
+
+Techstacks needs to be used : 
+Node.js
+Express.js
+Mongoose (MongoDB)
+Postman
+
+How it works:
+Follows the MVC pattern with separate folders for models, views, and controllers.
+Complete implementation of the CRUD operations.
+Fully functional integration with MongoDB using Mongoose.
+Detailed documentation for each API endpoint in Postman.
+Includes sample requests and responses for each operation and proper error handling and validation.
+
+
+
